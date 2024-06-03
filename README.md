@@ -1,16 +1,16 @@
 # SMS Spam Classifier
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Model Preprocessing](#model-preprocessing)
+1. [Introduction](#1-introduction)
+2. [Model Preprocessing](#2-model-preprocessing)
    - [2.1 Data Cleaning](#21-data-cleaning)
    - [2.2 Exploratory Data Analysis (EDA)](#22-exploratory-data-analysis-eda)
    - [2.3 NLTK Library](#23-nltk-library)
-3. [Model Building](#model-building)
+3. [Model Building](#3-model-building)
    - [3.1 Text Vectorization](#31-text-vectorization)
    - [3.2 Classification Algorithms](#32-classification-algorithms)
-4. [Model Evaluation and Frontend Formation](#model-evaluation-and-frontend-formation)
-5. [Conclusion](#conclusion)
+4. [Model Evaluation and Frontend Formation](#4-model-evaluation-and-frontend-formation)
+5. [Conclusion](#5-conclusion)
 
 ## 1. Introduction
 The dataset used in this project is taken from the UCI Machine Learning Repository, specifically the SMS Spam Collection dataset. The main objective of this project is to create an application that can automatically segregate spam SMS messages and move them to a spam folder, similar to the spam filtering systems used by major firms to avoid promotional and fraudulent messages.
